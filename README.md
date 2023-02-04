@@ -17,19 +17,13 @@ To run the simulation, you will need to have the following software installed on
 ### Installing
 
 1. Clone the repository to your local machine using the following command:
-
 git clone https://github.com/abhiseksarkar2001/Double-Pendulum-mechanics-with-animation-using-python.git
 
-
 2. Navigate to the project directory:
-
 cd Double-Pendulum-mechanics-with-animation-using-python
 
-
 3. Open the Jupyter Notebook file:
-
 jupyter-notebook Double\ Pendulum\ mechanics\ with\ animation\ using\ python.ipynb
-
 
 4. Run the simulation by executing the cells in the notebook.
 
